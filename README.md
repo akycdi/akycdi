@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for help with **React Node**
 
-- 👨‍💻 All of my projects are available at [akycdi.me](akycdi.me)
-
-- 📝 I regularly write articles on [akycdi.me](akycdi.me)
+- 👨‍💻 All of my projects are available at akycdi.me
 
 - 💬 Ask me about **React Node Data Structures**
 
