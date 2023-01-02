@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/akycdi" target="blank"><img src="https://img.shields.io/twitter/follow/akycdi?logo=twitter&style=for-the-badge" alt="akycdi" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs NodeJs**
+- 🌱 I’m currently learning **Embedded Programming*
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **React Node**
+- 🤝 I’m looking for help with **Embedded, Maui, React, Node**
 
-- 👨‍💻 All of my projects are available at akycdi.me
+- 👨‍💻 All of my projects will be available at akycdi.me
 
-- 💬 Ask me about **React Node Data Structures**
+- 💬 Ask me about **React Node Data Structures Maui Embedded**
 
 - 📫 How to reach me **arun36824@gmail.com**
 
 - 📄 Know about my experiences [akycdi.me](akycdi.me)
 
-- ⚡ Fun fact **I think I am Funny But deep down A Developer**
+- ⚡ Fun fact **I think I am Funny But deep down i am  Developer**
 
 
 
