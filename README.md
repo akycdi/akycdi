@@ -1,5 +1,5 @@
 <h1 align="center">Helloo , I'm Arun</h1>
-<h3 align="center">I am a Software developer i am interested in Web development, Cloud, Embedded Programming, Computer Netwroks and Cross platform applications </h3>
+<h3 align="center">I am a Software developer i am  interested in Web development,3D rendering , Cloud, Embedded Programming, Computer Netwroks and MAUI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akycdi&label=Profile%20views&color=0e75b6&style=flat" alt="akycdi" /> </p>
 
