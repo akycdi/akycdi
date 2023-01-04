@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Embedded, Maui, React, Node**
 
-- 👨‍💻 All of my projects will be available at [akycdi.me](http://akycdi.github.io/)
+- 👨‍💻 All of my projects will be available at [website](http://akycdi.github.io/)
 
 - 💬 Ask me about **React Node Data Structures Maui Embedded**
 
 - 📫 How to reach me **arun36824@gmail.com**
 
-- 📄 Know about my experiences [akycdi.me](http://akycdi.github.io/)
+- 📄 Know about my experiences [website](http://akycdi.github.io/)
 
 - ⚡ Fun fact **I think I am Funny But deep down i am  Developer**
 
