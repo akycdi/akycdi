@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akycdi&label=Profile%20views&color=0e75b6&style=flat" alt="akycdi" /> </p>
 
-- 🔭 I’m currently Working on my personal website [Portfolio](https://github.com/akycdi/leetcodedaily)
+- 🔭 I’m currently Working on my personal website [Portfolio]((https://akycdi.github.io/)
 
 - 🌱 I’m currently learning **Embedded Programming**
 
