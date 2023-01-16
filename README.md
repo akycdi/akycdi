@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Embedded Programming**
 
-- 🤝 I’m looking for help with **React and NodeJS**
+- 🤝 I’m looking for help with **React,NodeJS,MAUI**
 
 - 👨‍💻 All of my projects are available at [https://akycdi.github.io/](https://akycdi.github.io/)
 
