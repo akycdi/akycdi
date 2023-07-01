@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently Working on my personal website [Portfolio]((https://akycdi.github.io/)
 
-- 🌱 I’m currently learning **Embedded Programming**
+- 🌱 I’m currently learning **Embedded Programming and Web Development**
 
-- 🤝 I’m looking for help with **React,NodeJS,MAUI**
+- 🤝 I’m looking for help with **MERN,MAUI**
 
 - 👨‍💻 All of my projects are available at [https://akycdi.github.io/](https://akycdi.github.io/)
 
 - 📝 I want to regularly write articles on [https://dev.to/akycdi](https://dev.to/akycdi)
 
-- 💬 Ask me about **React Node Java Web Development**
+- 💬 Ask me about **React Node .NET Web Development PICO Embedded **
 
 - 📫 How to reach me **arun36824@gmail.com**
 
