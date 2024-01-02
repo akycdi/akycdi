@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently Working on my personal website((https://akycdi.github.io/)
 
-- 🌱 I’m currently learning **Embedded, Firmware, Programming and Web Development**
+- 🌱 I’m currently learning **React and Spring Boot**
 
-- 🤝 I’m looking for help with **MERN,Firmware,Web Dev,Pi,Pico,RTL**
+- 🤝 I’m looking for help with **MERN, Spring Boot, SQL**
 
 - 👨‍💻 All of my projects are available at [https://akycdi.github.io/](https://akycdi.github.io/)
 
 - 📝 I want to regularly write articles on [https://dev.to/akycdi](https://dev.to/akycdi)
 
-- 💬 Ask me about **React Node .NET Web Development PI PICO Embedded , Firmware **
+- 💬 Ask me about **React Node .NET Web Development PI PICO Embedded, Firmware **
 
 - 📫 How to reach me **arun36824@gmail.com**
 
